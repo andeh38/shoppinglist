@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://asd:asdasd@mflix-nkwai.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "rofloproject1_jwtSecret"
+}
