@@ -16,7 +16,7 @@
   "author": "andeh",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "concurrently": "^5.0.2",
     "config": "^3.2.5",
